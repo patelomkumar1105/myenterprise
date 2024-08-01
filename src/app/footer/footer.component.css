@@ -1,0 +1,39 @@
+.a {
+    display: flex;
+    width: 40px;
+    height: 40px;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #f1f1f1;
+}
+
+a:link {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration: none;
+    color: white;
+}
+
+a:active {
+    text-decoration: none;
+}
+
+.social {
+    grid-gap: 10px;
+}
+
+.text-white {
+    color: white !important;
+}
+
+.copyright-area {
+    padding: 1px;
+    text-align: left;
+    background: linear-gradient(#1434a4 0%, #0047ab 100%);
+    position: relative;
+    z-index: 19;
+}

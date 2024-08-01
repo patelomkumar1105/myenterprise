@@ -1,0 +1,38 @@
+.page-header{
+    background: url(/assets/images/HR_Management_System.jpg) center center no-repeat;
+    background-size: cover;
+    object-fit: cover;
+    width: 100%;
+    height: 50vh;
+    position: relative;
+}
+.container .myhrm {
+    background-size: cover;
+    width: 70%;
+}
+.back-office-image img {
+    border-radius: 16px;
+}
+img {
+    width: auto;
+    max-width: 100%;
+}
+.about-thumbnail {
+    position: relative;
+    z-index: 1;
+}
+.about-thumbnail.homepage .first-img {
+    position: relative;
+}
+.about-thumbnail.homepage .second-img1 {
+    position: absolute;
+    width: 18%;
+    left: 62%;
+    bottom: 1%;
+}
+.about-thumbnail.homepage .third-img1 {
+    position: absolute;
+    width: 25%;
+    left: 62%;
+    bottom: 62%;
+}

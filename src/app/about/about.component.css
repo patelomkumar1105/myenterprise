@@ -1,0 +1,14 @@
+.page-header{
+    background: url(/assets/images/about/about-us.png) center center no-repeat;
+    background-size: cover;
+}
+img{
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    border-radius: 16px;
+}
+img {
+    vertical-align: middle;
+    border-style: none;
+}
